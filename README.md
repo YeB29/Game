@@ -1,3 +1,3 @@
 # Game
 
-game 14 is meest complete 
+game 14 is meest compleet
